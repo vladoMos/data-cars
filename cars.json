@@ -7,7 +7,8 @@
     "opis": "Pouzdan kompaktni automobil poznat po ekonomičnoj potrošnji.",
     "vrsta_goriva": "Benzin",
     "transmisija": "Automatski",
-    "cijena": 15000
+    "cijena": 15000,
+    "slika": "https://dealerimages.dealereprocess.com/image/upload/3472413"
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "opis": "Popularan hatchback s odličnim performansama i udobnošću.",
     "vrsta_goriva": "Dizel",
     "transmisija": "Ručni",
-    "cijena": 14000
+    "cijena": 14000,
+    "slika": "https://signaturecarsound.com.au/wp-content/uploads/2016/07/GOLFVll_600x600.png"
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
     "opis": "Moderni kompakt s naprednom tehnologijom i sigurnosnim značajkama.",
     "vrsta_goriva": "Benzin",
     "transmisija": "Ručni",
-    "cijena": 16000
+    "cijena": 16000,
+    "slika": "https://explore-cyprus.com/wp-content/uploads/2023/12/Ford-Focus.png"
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "opis": "Sportski sedan sa stilom i iznimnom pouzdanošću.",
     "vrsta_goriva": "Hibrid",
     "transmisija": "Automatski",
-    "cijena": 22000
+    "cijena": 22000,
+    "slika": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
   },
   {
     "id": 5,
@@ -47,7 +51,8 @@
     "opis": "Luksuzni sedan s dinamičnim voznim karakteristikama.",
     "vrsta_goriva": "Dizel",
     "transmisija": "Automatski",
-    "cijena": 25000
+    "cijena": 25000,
+    "slika": "https://di-uploads-pod29.dealerinspire.com/sewellfamilyofcompanies/uploads/2022/12/cosy.arox-3-1.png"
   },
   {
     "id": 6,
@@ -57,7 +62,8 @@
     "opis": "Elegantni premium automobil s vrhunskom tehnologijom.",
     "vrsta_goriva": "Benzin",
     "transmisija": "Automatski",
-    "cijena": 28000
+    "cijena": 28000,
+    "slika": "https://images.dealer.com/ddc/vehicles/2020/Audi/A4/Sedan/perspective/front-left/2020_24.png"
   },
   {
     "id": 7,
@@ -67,7 +73,8 @@
     "opis": "Kombinacija luksuza, performansi i sofisticiranog dizajna.",
     "vrsta_goriva": "Dizel",
     "transmisija": "Automatski",
-    "cijena": 30000
+    "cijena": 30000,
+    "slika": "https://p.kindpng.com/picc/s/26-264722_class-of-2016-png-transparent-2016-mercedes-benz.png"
   },
   {
     "id": 8,
@@ -77,7 +84,8 @@
     "opis": "Pristupačni sedan s modernim značajkama i privlačnim dizajnom.",
     "vrsta_goriva": "Benzin",
     "transmisija": "Ručni",
-    "cijena": 13000
+    "cijena": 13000,
+    "slika": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTRj3l6R-QIWH9OQT5w3QVqdT29MdHhf4agQ&s"
   },
   {
     "id": 9,
@@ -87,7 +95,8 @@
     "opis": "Kompaktni SUV s prostranom unutrašnjošću i pouzdanom vožnjom.",
     "vrsta_goriva": "Dizel",
     "transmisija": "Automatski",
-    "cijena": 27000
+    "cijena": 27000,
+    "slika": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC2Zlt2EyV9WGu0tNYpAoQz9iZOLxnKa5H4Q&s"
   },
   {
     "id": 10,
@@ -97,7 +106,8 @@
     "opis": "SUV s naglaskom na vozačko iskustvo i estetski dizajn.",
     "vrsta_goriva": "Benzin",
     "transmisija": "Automatski",
-    "cijena": 24000
+    "cijena": 24000,
+    "slika": "https://www.pngarts.com/files/2/Mazda-PNG-Photo.png"
   },
   {
     "id": 11,
@@ -107,7 +117,8 @@
     "opis": "Električni automobil visokih performansi s dugim dosegom.",
     "vrsta_goriva": "Električni",
     "transmisija": "Automatski",
-    "cijena": 40000
+    "cijena": 40000,
+    "slika": "https://www.pngarts.com/files/11/Tesla-Model-S-PNG-Background-Image.png"
   },
   {
     "id": 12,
@@ -117,7 +128,8 @@
     "opis": "Praktičan crossover idealan za gradsku i obiteljsku vožnju.",
     "vrsta_goriva": "Dizel",
     "transmisija": "Ručni",
-    "cijena": 18000
+    "cijena": 18000,
+    "slika": "https://nissanclover.wordpress.com/wp-content/uploads/2015/01/qashqai-png.png"
   },
   {
     "id": 13,
@@ -127,7 +139,8 @@
     "opis": "Moderan gradski automobil s kompaktnim dizajnom.",
     "vrsta_goriva": "Benzin",
     "transmisija": "Ručni",
-    "cijena": 12000
+    "cijena": 12000,
+    "slika": "https://www.pngplay.com/wp-content/uploads/13/Peugeot-208-2019-Transparent-Images.png"
   },
   {
     "id": 14,
@@ -137,7 +150,8 @@
     "opis": "Elegantni mali automobil s naprednim sigurnosnim značajkama.",
     "vrsta_goriva": "Dizel",
     "transmisija": "Ručni",
-    "cijena": 11000
+    "cijena": 11000,
+    "slika": "https://www.pngplay.com/wp-content/uploads/13/Renault-CLIO-PNG-HD-Quality.png"
   },
   {
     "id": 15,
@@ -147,6 +161,7 @@
     "opis": "Svestrani sedan s dobrim omjerom cijene i kvalitete.",
     "vrsta_goriva": "Benzin",
     "transmisija": "Ručni",
-    "cijena": 10000
+    "cijena": 10000,
+    "slika": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGGMTjvgOxXjatdCcAZHU7MsaBMAr3vrBmNSczYdbN1DkRXgZJKOQGt4VUjrh05ZArMjg&usqp=CAU"
   }
 ]
