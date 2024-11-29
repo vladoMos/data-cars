@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "ime": "Toyota",
+    "model": "Corolla",
+    "godiste": 2020,
+    "opis": "Pouzdan kompaktni automobil poznat po ekonomičnoj potrošnji.",
+    "vrsta_goriva": "Benzin",
+    "transmisija": "Automatski",
+    "cijena": 15000
+  },
+  {
+    "id": 2,
+    "ime": "Volkswagen",
+    "model": "Golf",
+    "godiste": 2019,
+    "opis": "Popularan hatchback s odličnim performansama i udobnošću.",
+    "vrsta_goriva": "Dizel",
+    "transmisija": "Ručni",
+    "cijena": 14000
+  },
+  {
+    "id": 3,
+    "ime": "Ford",
+    "model": "Focus",
+    "godiste": 2021,
+    "opis": "Moderni kompakt s naprednom tehnologijom i sigurnosnim značajkama.",
+    "vrsta_goriva": "Benzin",
+    "transmisija": "Ručni",
+    "cijena": 16000
+  },
+  {
+    "id": 4,
+    "ime": "Honda",
+    "model": "Civic",
+    "godiste": 2022,
+    "opis": "Sportski sedan sa stilom i iznimnom pouzdanošću.",
+    "vrsta_goriva": "Hibrid",
+    "transmisija": "Automatski",
+    "cijena": 22000
+  },
+  {
+    "id": 5,
+    "ime": "BMW",
+    "model": "3 Series",
+    "godiste": 2018,
+    "opis": "Luksuzni sedan s dinamičnim voznim karakteristikama.",
+    "vrsta_goriva": "Dizel",
+    "transmisija": "Automatski",
+    "cijena": 25000
+  },
+  {
+    "id": 6,
+    "ime": "Audi",
+    "model": "A4",
+    "godiste": 2020,
+    "opis": "Elegantni premium automobil s vrhunskom tehnologijom.",
+    "vrsta_goriva": "Benzin",
+    "transmisija": "Automatski",
+    "cijena": 28000
+  },
+  {
+    "id": 7,
+    "ime": "Mercedes-Benz",
+    "model": "C-Class",
+    "godiste": 2019,
+    "opis": "Kombinacija luksuza, performansi i sofisticiranog dizajna.",
+    "vrsta_goriva": "Dizel",
+    "transmisija": "Automatski",
+    "cijena": 30000
+  },
+  {
+    "id": 8,
+    "ime": "Hyundai",
+    "model": "Elantra",
+    "godiste": 2021,
+    "opis": "Pristupačni sedan s modernim značajkama i privlačnim dizajnom.",
+    "vrsta_goriva": "Benzin",
+    "transmisija": "Ručni",
+    "cijena": 13000
+  },
+  {
+    "id": 9,
+    "ime": "Kia",
+    "model": "Sportage",
+    "godiste": 2022,
+    "opis": "Kompaktni SUV s prostranom unutrašnjošću i pouzdanom vožnjom.",
+    "vrsta_goriva": "Dizel",
+    "transmisija": "Automatski",
+    "cijena": 27000
+  },
+  {
+    "id": 10,
+    "ime": "Mazda",
+    "model": "CX-5",
+    "godiste": 2020,
+    "opis": "SUV s naglaskom na vozačko iskustvo i estetski dizajn.",
+    "vrsta_goriva": "Benzin",
+    "transmisija": "Automatski",
+    "cijena": 24000
+  },
+  {
+    "id": 11,
+    "ime": "Tesla",
+    "model": "Model 3",
+    "godiste": 2021,
+    "opis": "Električni automobil visokih performansi s dugim dosegom.",
+    "vrsta_goriva": "Električni",
+    "transmisija": "Automatski",
+    "cijena": 40000
+  },
+  {
+    "id": 12,
+    "ime": "Nissan",
+    "model": "Qashqai",
+    "godiste": 2019,
+    "opis": "Praktičan crossover idealan za gradsku i obiteljsku vožnju.",
+    "vrsta_goriva": "Dizel",
+    "transmisija": "Ručni",
+    "cijena": 18000
+  },
+  {
+    "id": 13,
+    "ime": "Peugeot",
+    "model": "208",
+    "godiste": 2020,
+    "opis": "Moderan gradski automobil s kompaktnim dizajnom.",
+    "vrsta_goriva": "Benzin",
+    "transmisija": "Ručni",
+    "cijena": 12000
+  },
+  {
+    "id": 14,
+    "ime": "Renault",
+    "model": "Clio",
+    "godiste": 2018,
+    "opis": "Elegantni mali automobil s naprednim sigurnosnim značajkama.",
+    "vrsta_goriva": "Dizel",
+    "transmisija": "Ručni",
+    "cijena": 11000
+  },
+  {
+    "id": 15,
+    "ime": "Chevrolet",
+    "model": "Cruze",
+    "godiste": 2017,
+    "opis": "Svestrani sedan s dobrim omjerom cijene i kvalitete.",
+    "vrsta_goriva": "Benzin",
+    "transmisija": "Ručni",
+    "cijena": 10000
+  }
+]
