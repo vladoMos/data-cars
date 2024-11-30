@@ -8,7 +8,10 @@
     "vrsta_goriva": "Benzin",
     "transmisija": "Automatski",
     "cijena": 15000,
-    "slika": "https://dealerimages.dealereprocess.com/image/upload/3472413"
+    "slike": [
+      "https://dealerimages.dealereprocess.com/image/upload/3472413",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
+    ]
   },
   {
     "id": 2,
@@ -19,7 +22,10 @@
     "vrsta_goriva": "Dizel",
     "transmisija": "Ručni",
     "cijena": 14000,
-    "slika": "https://signaturecarsound.com.au/wp-content/uploads/2016/07/GOLFVll_600x600.png"
+    "slike": [
+      "https://signaturecarsound.com.au/wp-content/uploads/2016/07/GOLFVll_600x600.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
+    ]
   },
   {
     "id": 3,
@@ -30,7 +36,10 @@
     "vrsta_goriva": "Benzin",
     "transmisija": "Ručni",
     "cijena": 16000,
-    "slika": "https://explore-cyprus.com/wp-content/uploads/2023/12/Ford-Focus.png"
+    "slike": [
+      "https://explore-cyprus.com/wp-content/uploads/2023/12/Ford-Focus.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
+    ]
   },
   {
     "id": 4,
@@ -41,7 +50,10 @@
     "vrsta_goriva": "Hibrid",
     "transmisija": "Automatski",
     "cijena": 22000,
-    "slika": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
+    "slike": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
+    ]
   },
   {
     "id": 5,
@@ -52,7 +64,10 @@
     "vrsta_goriva": "Dizel",
     "transmisija": "Automatski",
     "cijena": 25000,
-    "slika": "https://di-uploads-pod29.dealerinspire.com/sewellfamilyofcompanies/uploads/2022/12/cosy.arox-3-1.png"
+    "slike": [
+      "https://di-uploads-pod29.dealerinspire.com/sewellfamilyofcompanies/uploads/2022/12/cosy.arox-3-1.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
+    ]
   },
   {
     "id": 6,
@@ -63,7 +78,10 @@
     "vrsta_goriva": "Benzin",
     "transmisija": "Automatski",
     "cijena": 28000,
-    "slika": "https://images.dealer.com/ddc/vehicles/2020/Audi/A4/Sedan/perspective/front-left/2020_24.png"
+    "slike": [
+      "https://images.dealer.com/ddc/vehicles/2020/Audi/A4/Sedan/perspective/front-left/2020_24.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
+    ]
   },
   {
     "id": 7,
@@ -74,7 +92,10 @@
     "vrsta_goriva": "Dizel",
     "transmisija": "Automatski",
     "cijena": 30000,
-    "slika": "https://p.kindpng.com/picc/s/26-264722_class-of-2016-png-transparent-2016-mercedes-benz.png"
+    "slike": [
+      "https://p.kindpng.com/picc/s/26-264722_class-of-2016-png-transparent-2016-mercedes-benz.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
+    ]
   },
   {
     "id": 8,
@@ -85,7 +106,10 @@
     "vrsta_goriva": "Benzin",
     "transmisija": "Ručni",
     "cijena": 13000,
-    "slika": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTRj3l6R-QIWH9OQT5w3QVqdT29MdHhf4agQ&s"
+    "slike": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTRj3l6R-QIWH9OQT5w3QVqdT29MdHhf4agQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
+    ]
   },
   {
     "id": 9,
@@ -96,7 +120,10 @@
     "vrsta_goriva": "Dizel",
     "transmisija": "Automatski",
     "cijena": 27000,
-    "slika": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC2Zlt2EyV9WGu0tNYpAoQz9iZOLxnKa5H4Q&s"
+    "slike": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC2Zlt2EyV9WGu0tNYpAoQz9iZOLxnKa5H4Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
+    ]
   },
   {
     "id": 10,
@@ -107,7 +134,10 @@
     "vrsta_goriva": "Benzin",
     "transmisija": "Automatski",
     "cijena": 24000,
-    "slika": "https://www.pngarts.com/files/2/Mazda-PNG-Photo.png"
+    "slike": [
+      "https://www.pngarts.com/files/2/Mazda-PNG-Photo.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
+    ]
   },
   {
     "id": 11,
@@ -118,50 +148,23 @@
     "vrsta_goriva": "Električni",
     "transmisija": "Automatski",
     "cijena": 40000,
-    "slika": "https://www.pngarts.com/files/11/Tesla-Model-S-PNG-Background-Image.png"
+    "slike": [
+      "https://www.pngarts.com/files/11/Tesla-Model-S-PNG-Background-Image.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
+    ]
   },
   {
     "id": 12,
     "ime": "Nissan",
     "model": "Qashqai",
     "godiste": 2019,
-    "opis": "Praktičan crossover idealan za gradsku i obiteljsku vožnju.",
+    "opis": "Praktičan crossover sa stilom i odličnim performansama.",
     "vrsta_goriva": "Dizel",
-    "transmisija": "Ručni",
-    "cijena": 18000,
-    "slika": "https://nissanclover.wordpress.com/wp-content/uploads/2015/01/qashqai-png.png"
-  },
-  {
-    "id": 13,
-    "ime": "Peugeot",
-    "model": "208",
-    "godiste": 2020,
-    "opis": "Moderan gradski automobil s kompaktnim dizajnom.",
-    "vrsta_goriva": "Benzin",
-    "transmisija": "Ručni",
-    "cijena": 12000,
-    "slika": "https://www.pngplay.com/wp-content/uploads/13/Peugeot-208-2019-Transparent-Images.png"
-  },
-  {
-    "id": 14,
-    "ime": "Renault",
-    "model": "Clio",
-    "godiste": 2018,
-    "opis": "Elegantni mali automobil s naprednim sigurnosnim značajkama.",
-    "vrsta_goriva": "Dizel",
-    "transmisija": "Ručni",
-    "cijena": 11000,
-    "slika": "https://www.pngplay.com/wp-content/uploads/13/Renault-CLIO-PNG-HD-Quality.png"
-  },
-  {
-    "id": 15,
-    "ime": "Chevrolet",
-    "model": "Cruze",
-    "godiste": 2017,
-    "opis": "Svestrani sedan s dobrim omjerom cijene i kvalitete.",
-    "vrsta_goriva": "Benzin",
-    "transmisija": "Ručni",
-    "cijena": 10000,
-    "slika": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGGMTjvgOxXjatdCcAZHU7MsaBMAr3vrBmNSczYdbN1DkRXgZJKOQGt4VUjrh05ZArMjg&usqp=CAU"
+    "transmisija": "Automatski",
+    "cijena": 21000,
+    "slike": [
+      "https://explore-cyprus.com/wp-content/uploads/2023/12/nissanqashqai.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
+    ]
   }
 ]
