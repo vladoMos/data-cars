@@ -8,6 +8,7 @@
     "vrsta_goriva": "Benzin",
     "transmisija": "Automatski",
     "cijena": 15000,
+    "kilometraza": 35000,
     "slike": [
       "https://dealerimages.dealereprocess.com/image/upload/3472413",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
@@ -22,6 +23,7 @@
     "vrsta_goriva": "Dizel",
     "transmisija": "Ručni",
     "cijena": 14000,
+    "kilometraza": 45000,
     "slike": [
       "https://signaturecarsound.com.au/wp-content/uploads/2016/07/GOLFVll_600x600.png",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
@@ -36,6 +38,7 @@
     "vrsta_goriva": "Benzin",
     "transmisija": "Ručni",
     "cijena": 16000,
+    "kilometraza": 25000,
     "slike": [
       "https://explore-cyprus.com/wp-content/uploads/2023/12/Ford-Focus.png",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
@@ -50,6 +53,7 @@
     "vrsta_goriva": "Hibrid",
     "transmisija": "Automatski",
     "cijena": 22000,
+    "kilometraza": 15000,
     "slike": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
@@ -64,6 +68,7 @@
     "vrsta_goriva": "Dizel",
     "transmisija": "Automatski",
     "cijena": 25000,
+    "kilometraza": 60000,
     "slike": [
       "https://di-uploads-pod29.dealerinspire.com/sewellfamilyofcompanies/uploads/2022/12/cosy.arox-3-1.png",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
@@ -78,6 +83,7 @@
     "vrsta_goriva": "Benzin",
     "transmisija": "Automatski",
     "cijena": 28000,
+    "kilometraza": 30000,
     "slike": [
       "https://images.dealer.com/ddc/vehicles/2020/Audi/A4/Sedan/perspective/front-left/2020_24.png",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
@@ -92,6 +98,7 @@
     "vrsta_goriva": "Dizel",
     "transmisija": "Automatski",
     "cijena": 30000,
+    "kilometraza": 40000,
     "slike": [
       "https://p.kindpng.com/picc/s/26-264722_class-of-2016-png-transparent-2016-mercedes-benz.png",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
@@ -106,6 +113,7 @@
     "vrsta_goriva": "Benzin",
     "transmisija": "Ručni",
     "cijena": 13000,
+    "kilometraza": 20000,
     "slike": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTRj3l6R-QIWH9OQT5w3QVqdT29MdHhf4agQ&s",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
@@ -120,6 +128,7 @@
     "vrsta_goriva": "Dizel",
     "transmisija": "Automatski",
     "cijena": 27000,
+    "kilometraza": 12000,
     "slike": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC2Zlt2EyV9WGu0tNYpAoQz9iZOLxnKa5H4Q&s",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
@@ -134,6 +143,7 @@
     "vrsta_goriva": "Benzin",
     "transmisija": "Automatski",
     "cijena": 24000,
+    "kilometraza": 15000,
     "slike": [
       "https://www.pngarts.com/files/2/Mazda-PNG-Photo.png",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
@@ -148,22 +158,39 @@
     "vrsta_goriva": "Električni",
     "transmisija": "Automatski",
     "cijena": 40000,
+    "kilometraza": 10000,
     "slike": [
-      "https://www.pngarts.com/files/11/Tesla-Model-S-PNG-Background-Image.png",
+      "https://cdn.motor1.com/images/mgl/R8dV2/s3/2021-tesla-model-3-pic.jpg",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
     ]
   },
   {
     "id": 12,
     "ime": "Nissan",
-    "model": "Qashqai",
-    "godiste": 2019,
-    "opis": "Praktičan crossover sa stilom i odličnim performansama.",
-    "vrsta_goriva": "Dizel",
+    "model": "Altima",
+    "godiste": 2020,
+    "opis": "Prostrani sedan s vrhunskom tehnologijom i udobnošću.",
+    "vrsta_goriva": "Benzin",
     "transmisija": "Automatski",
-    "cijena": 21000,
+    "cijena": 23000,
+    "kilometraza": 22000,
     "slike": [
-      "https://explore-cyprus.com/wp-content/uploads/2023/12/nissanqashqai.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2020_Nissan_Altima_SR_2.5.jpg/1024px-2020_Nissan_Altima_SR_2.5.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
+    ]
+  },
+  {
+    "id": 13,
+    "ime": "Chevrolet",
+    "model": "Malibu",
+    "godiste": 2021,
+    "opis": "Suvremeni sedan s komforom i tehnologijom po pristupačnoj cijeni.",
+    "vrsta_goriva": "Benzin",
+    "transmisija": "Ručni",
+    "cijena": 24000,
+    "kilometraza": 17000,
+    "slike": [
+      "https://cdn.motor1.com/images/mgl/kl2Xp/s3/2021-chevrolet-malibu-pic.jpg",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
     ]
   }
