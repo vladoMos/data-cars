@@ -167,6 +167,7 @@
     "cijena": 40000,
     "kilometraza": 10000,
     "slike": [
+      "https://raw.githubusercontent.com/vladoMos/car-slike/main/audi/tesla_profile.png",
       "https://cdn.motor1.com/images/mgl/R8dV2/s3/2021-tesla-model-3-pic.jpg",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
     ]
@@ -182,6 +183,7 @@
     "cijena": 23000,
     "kilometraza": 22000,
     "slike": [
+      "https://raw.githubusercontent.com/vladoMos/car-slike/main/audi/nissanprofile.png",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2020_Nissan_Altima_SR_2.5.jpg/1024px-2020_Nissan_Altima_SR_2.5.jpg",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZEK9NlxO6skZu_g9x5IEYoiOkUmP89C3g&s"
     ]
